@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Nike-Inspired React Project
 
-Currently, two official plugins are available:
+A stylish front-end web application built with React.js and Tailwind CSS, featuring smooth animations using Framer Motion and a toggleable dark mode. Experience modern design aesthetics reminiscent of Nike's innovation in this dynamic project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This description captures the essence of your project's technologies and design inspiration in just a few lines. Feel free to customize it further based on the specific aspects you want to highlight or any additional details you'd like to include.
